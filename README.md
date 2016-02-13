@@ -1,7 +1,6 @@
 # automation-qa
 ##Examples of the solution the interesting tasks
 
-'''
 1. The task is to create a composite function.See [functionComposition.py]
 (https://github.com/shevchykH/automation-qa/blob/master/taskSolution/mergedStringChecker.py)
 compose(f , g)(x)
@@ -13,4 +12,3 @@ Example:
 s: d o l l a r = dollar
 part1: d l r = dlr
 part2: o l a  = ola
-'''
