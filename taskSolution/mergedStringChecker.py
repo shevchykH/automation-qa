@@ -1,3 +1,13 @@
+'''
+Example of input:
+s: d o l l a r = dollar
+part1: d l r = dlr
+part2: o l a = ola
+
+functin return : True
+
+'''
+
 # Solution N1
 def is_merge(s, part1, part2):
     queue = [(s,part1,part2)]
