@@ -1,8 +1,9 @@
 # automation-qa
 ##Examples of the solution the interesting tasks
+
 '''
 1. The task is to create a composite function.See [functionComposition.py]
-[https://github.com/shevchykH/automation-qa/blob/master/taskSolution/mergedStringChecker.py]
+(https://github.com/shevchykH/automation-qa/blob/master/taskSolution/mergedStringChecker.py)
 compose(f , g)(x)
 => f( g( x ) ).
 
