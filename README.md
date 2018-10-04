@@ -1,5 +1,5 @@
 # automation-qa
-##Examples of the solution the interesting tasks
+## Examples of the solution the interesting tasks
 
 1. The task is to create a composite function.See [functionComposition.py]
 (https://github.com/shevchykH/automation-qa/blob/master/taskSolution/functionComposition.py)
